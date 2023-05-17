@@ -1,0 +1,83 @@
+body{
+    background-image: none;
+}
+.navbar{
+    background-image: url("../rasmlar/backgroundhalaltour5.png") !important;
+    background-repeat: repeat-x;
+    background-size: 300px;
+}
+.temiryol1{
+    width: 100%;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.homep{
+    margin-left: 15px;
+    margin-top: 0;
+    color: gray;
+    font-family: Calibri;
+    font-size: 14px;
+}
+.homep a{
+    color: black;
+    text-decoration: underline black !important;
+}
+.homep a:hover{
+    text-decoration: none !important;
+    font-family: Calibri;
+}
+.H2-GREEN{
+    text-align: left;
+    margin-left: 12px;
+    margin-top: 30px !important;
+    font-family: "Times New Roman";
+    color: mediumseagreen !important;
+}
+.container{
+    width: 1250px;
+    display: block;
+    margin: 15px auto;
+    padding: 0;
+}
+.row{
+    width: 100%;
+    display: block;
+}
+.col-md-3{
+    width: 20%;
+    float: left;
+    margin-top: 35px;
+    margin-left: 0;
+}
+.col-md-9{
+    width: 75%;
+    float: left;
+    margin-top: 35px;
+}
+.card{
+    border: 1px solid whitesmoke;
+    width: 210px;
+    height: 35px;
+    margin-left: 10px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.col-md-4{
+    width: 20%;
+    float: left;
+    margin-left: 15px;
+}
+.col-md-8{
+    width: 600px;
+    float: left;
+}
+.tem1text{
+    margin-left: 18px;
+    font-family: Calibri;
+    font-size: 24px;
+    margin-top: 0;
+
+}
+.clear{
+    clear: both;
+}

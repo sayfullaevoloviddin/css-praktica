@@ -1,0 +1,84 @@
+body{
+    background-image: none;
+}
+.container{
+    width: 1250px;
+    display: block;
+    margin: 15px auto;
+    padding: 0;
+}
+.navbar{
+    background-image: url("../rasmlar/backgroundhalaltour5.png") !important;
+    background-repeat: repeat-x;
+    background-size: 300px;
+}
+.row{
+    width: 100%;
+    display: block;
+}
+.col-md-3{
+    width: 20%;
+    float: left;
+    margin-top: 35px;
+    margin-left: 0;
+}
+.col-md-9{
+    width: 79%;
+    float: left;
+    margin-top: 35px;
+}
+.card{
+    border: 1px solid whitesmoke;
+    width: 220px;
+    height: 35px;
+    margin-left: 10px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.homep{
+    margin-left: 30px;
+    margin-top: 0;
+    color: gray;
+    font-family: Calibri;
+    font-size: 14px;
+}
+.homep a{
+    color: black;
+    text-decoration: underline black !important;
+}
+.homep a:hover{
+    text-decoration: none !important;
+    font-family: Calibri;
+}
+.H2-GREEN{
+    text-align: left !important;
+    margin-left: 30px;
+    margin-top: 20px !important;
+}
+.malumot1{
+    font-size: 22px;
+    font-family: "calibri";
+    margin-left: 25px;
+}
+.transfer1{
+    width: 250px;
+}
+.transfer2{
+    width: 250px;
+    height: 330px;
+}
+.transfer3{
+    width: 400px;
+}
+.transfer4{
+    width: 400px;
+}
+.transfer5{
+    width: 400px;
+}
+.transfer6{
+    width: 400px;
+}
+.transfer7{
+    width: 400px;
+}
